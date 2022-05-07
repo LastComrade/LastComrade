@@ -9,7 +9,7 @@
 
 <!-- - 📝 I regularly write articles on [N/A](N/A) -->
 
-- 💬 Ask me about **Node.js and C++**
+- 💬 Ask me about **Data Structures & Algorithms, C++, and Node.js**
 
 - 📫 How to reach me **konarklohat123456@gmail.com**
 
