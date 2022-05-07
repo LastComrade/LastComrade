@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konark Lohat</h1>
-<h3 align="center">A random dude enjoying the beauty of coding and development.</h3>
+<h3 align="center">A software developer enjoying the beauty of programming and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lastcomrade&label=Profile%20views&color=0e75b6&style=flat" alt="lastcomrade" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [LastComrade](https://github.com/LastComrade)
 
-- 📝 I regularly write articles on [N/A](N/A)
+<!-- - 📝 I regularly write articles on [N/A](N/A) -->
 
 - 💬 Ask me about **Node.js and C++**
 
 - 📫 How to reach me **konarklohat123456@gmail.com**
 
-- 📄 Know about my experiences [N/A](N/A)
+<!-- - 📄 Know about my experiences [N/A](N/A) -->
 
 - ⚡ Fun fact **I think we all are memes trying to be human beings.**
 
